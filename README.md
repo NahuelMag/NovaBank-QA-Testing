@@ -26,7 +26,7 @@ Tipo de pruebas
 
   Testing exploratorio
 
-  Validación de reglas de negocio\
+  Validación de reglas de negocio
 
   
 Herramientas utilizadas
