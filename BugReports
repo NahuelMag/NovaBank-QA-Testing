@@ -1,1 +1,12 @@
-https://nahuelmag.atlassian.net/jira/software/projects/NBANK/boards/1?atlOrigin=eyJpIjoiMmJlZjhhMTlkZjFiNDViZjljYjAyNGIwZWNlMjUxZDUiLCJwIjoiaiJ9
+## Bug Tracking
+
+Los defectos identificados durante las pruebas fueron registrados y gestionados utilizando Jira.
+
+Se reportaron un total de 4 bugs relacionados con:
+
+- Validación de saldo insuficiente
+- Doble confirmación de transferencia
+- Falta de confirmación visual de datos
+- Manejo de expiración de sesión
+
+Link:   https://nahuelmag.atlassian.net/jira/software/projects/NBANK/boards/1?atlOrigin=eyJpIjoiMmJlZjhhMTlkZjFiNDViZjljYjAyNGIwZWNlMjUxZDUiLCJwIjoiaiJ9
